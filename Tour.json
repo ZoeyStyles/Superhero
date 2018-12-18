@@ -1,5 +1,33 @@
 {
-    "members" : [
+    "year1" : "2017巡演",
+    "year2" : "2018巡演",
+    "members1" : [
+    {
+      "continent" : "北美",
+      "starttime" : "9.19",
+      "endtime" : "10.14",
+      "counts" : 13
+    },
+    {
+      "continent" : "澳洲",
+      "starttime" : "10.25",
+      "endtime" : "11.10",
+      "counts" : 10
+    },
+    {
+      "continent" : "澳洲",
+      "starttime" : "11.23",
+      "endtime" : "11.30",
+      "counts" : 3
+    },
+    {
+      "continent" : "亚洲",
+      "starttime" : "12.02",
+      "endtime" : "12.08",
+      "counts" : 3
+    }
+  ],
+      "members2" : [
       {
         "continent" : "欧洲",
         "starttime" : "3.11",
