@@ -1,41 +1,39 @@
 {
-    "squadName" : "LIVE ON THE TOUR",
-  "homeTown" : "Harry Styles",
-  "formed" : 2017,
-  "secretBase" : "Super tower",
+    "tourName" : "LIVE ON TOUR",
+    "singer" : "Harry Styles",
+    "time" : "2017-2018",
+    "secretBase" : "Super tower",
     "active" : true,
     "members" : [
       {
-        "name" : "EUROPE",
-        "age" : 30,
-        "secretIdentity" : "Dan Jukes",
-        "powers" : [
-          "Radiation resistance",
-          "Turning tiny",
-          "Radiation blast"
-        ]
+        "continent" : "欧洲",
+        "starttime" : "3.11",
+        "endtime" : "4.16",
+        "counts" : 21
       },
       {
-        "name" : "Madame Uppercut",
-        "age" : 39,
-        "secretIdentity" : "Jane Wilson",
-        "powers" : [
-          "Million tonne punch",
-          "Damage resistance",
-          "Superhuman reflexes"
-        ]
+        "continent" : "澳洲",
+        "starttime" : "4.21",
+        "endtime" : "4.28",
+        "counts" : 4
       },
       {
-        "name" : "Eternal Flame",
-        "age" : 1000000,
-        "secretIdentity" : "Unknown",
-        "powers" : [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
-          "Teleportation",
-          "Interdimensional travel"
-        ]
+        "continent" : "亚洲",
+        "starttime" : "5.1",
+        "endtime" : "5.12",
+        "counts" : 6
+      },
+      {
+        "continent" : "南美",
+        "starttime" : "5.23",
+        "endtime" : "6.2",
+        "counts" : 6
+      },
+      {
+        "continent" : "北美",
+        "starttime" : "6.5",
+        "endtime" : "4.14",
+        "counts" : 23
       }
     ]
   }
