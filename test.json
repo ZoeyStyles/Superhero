@@ -1,58 +1,74 @@
 {
-    "members" : [
+  "world" :[
     {
-      "continent" : "北美",
-      "starttime" : "9.19",
-      "endtime" : "10.14",
-      "counts" : 13
-    },
-    {
-      "continent" : "欧洲",
-      "starttime" : "10.25",
-      "endtime" : "11.10",
-      "counts" : 10
-    },
-    {
-      "continent" : "澳洲",
-      "starttime" : "11.23",
-      "endtime" : "11.30",
-      "counts" : 3
-    },
-    {
-      "continent" : "亚洲",
-      "starttime" : "12.02",
-      "endtime" : "12.08",
-      "counts" : 3
-    },
-    {
-      "continent" : "欧洲",
-      "starttime" : "3.11",
-      "endtime" : "4.16",
-      "counts" : 21
-    },
-    {
-      "continent" : "澳洲",
-      "starttime" : "4.21",
-      "endtime" : "4.28",
-      "counts" : 4
-    },
-    {
-      "continent" : "亚洲",
-      "starttime" : "5.1",
-      "endtime" : "5.12",
-      "counts" : 6
-    },
-    {
-      "continent" : "南美",
-      "starttime" : "5.23",
-      "endtime" : "6.2",
-      "counts" : 6
-    },
-    {
-      "continent" : "北美",
-      "starttime" : "6.5",
-      "endtime" : "4.14",
-    "counts" : 23
+      "member1" : [
+        {
+          "year" : "2017巡演",
+          "content" : [
+            {         
+              "continent" : "北美",
+              "starttime" : "9.19",
+              "endtime" : "10.14",
+              "counts" : 13
+            },
+            {
+              "continent" : "欧洲",
+              "starttime" : "10.25",
+              "endtime" : "11.10",
+              "counts" : 10
+            },
+            {
+              "continent" : "澳洲",
+              "starttime" : "11.23",
+              "endtime" : "11.30",
+              "counts" : 3
+            }
+          ]
+        }
+      ],
+      "member2" : [
+      {
+        "year" : "2018巡演",
+        "content" : [
+          {
+            "continent" : "亚洲",
+            "starttime" : "12.02",
+            "endtime" : "12.08",
+            "counts" : 3
+          },
+          {
+            "continent" : "欧洲",
+            "starttime" : "3.11",
+            "endtime" : "4.16",
+            "counts" : 21
+          },
+          {
+            "continent" : "澳洲",
+            "starttime" : "4.21",
+            "endtime" : "4.28",
+            "counts" : 4
+          },
+          {
+            "continent" : "亚洲",
+            "starttime" : "5.1",
+            "endtime" : "5.12",
+            "counts" : 6
+          },
+          {
+            "continent" : "南美",
+            "starttime" : "5.23",
+            "endtime" : "6.2",
+            "counts" : 6
+          },
+          {
+            "continent" : "北美",
+            "starttime" : "6.5",
+            "endtime" : "4.14",
+            "counts" : 23
+            }
+          ]
+        }
+      ]
     }
-    ]
-  }
+  ]
+}
