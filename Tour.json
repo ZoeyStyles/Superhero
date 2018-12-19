@@ -1,5 +1,5 @@
 {
-      "member1" : [
+      "members" : [
         {
           "continent" : "北美",
           "starttime" : "9.19",
@@ -23,10 +23,8 @@
           "starttime" : "12.02",
           "endtime" : "12.08",
           "counts" : 3
-        }
-      ],
-      "member2" : [
-        {
+        },
+            {
           "continent" : "欧洲",
           "starttime" : "3.11",
           "endtime" : "4.16",
@@ -56,5 +54,5 @@
           "endtime" : "4.14",
           "counts" : 23
         }
-      ]
+      ] 
 }
