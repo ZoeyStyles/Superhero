@@ -1,7 +1,8 @@
 {
+ "year" : "2017巡演", 
   "members" : [
   {
-    "continent" : "北美（2017首站）",
+    "continent" : "北美",
     "starttime" : "9.19",
     "endtime" : "10.14",
     "counts" : 13
